@@ -80,3 +80,12 @@ pyinstaller --onefile --noconsole client.py
 2. 為了安全性，系統僅允許從 `127.0.0.1` 地址進行註冊
 3. 註冊完成後，使用新註冊的帳號登入
 4. 登入後，即可對其他客戶端下達指令
+
+## 介面預覽 (Interface Preview)
+
+- **登入頁面 (Login Page)**: 使用者進入系統時的登入介面。用戶需要輸入帳號和密碼進行身份驗證。
+
+  ![Login Page](./markdown_imgs/login_page.png)
+- **指令中心頁面 (Command Center Page)**: 登入後的主要操作介面，包含常用功能按鈕以及選擇用戶下命令的輸入框。
+
+  ![Command Page](./markdown_imgs/command_page.png)
