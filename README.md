@@ -89,3 +89,9 @@ pyinstaller --onefile --noconsole client.py
 - **指令中心頁面 (Command Center Page)**: 登入後的主要操作介面，包含常用功能按鈕以及選擇用戶下命令的輸入框。
 
   ![Command Page](./markdown_imgs/command_page.png)
+
+## 影片展示 (Demo)
+
+以下是智慧教室指令系統的操作影片，展示系統從伺服器啟動到下達批量指令的完整流程。
+
+[![智慧教室指令系統操作影片](https://img.youtube.com/vi/wL6UWMA-Ha0/0.jpg)](https://youtu.be/wL6UWMA-Ha0)
